@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi👋 I am Hans!
 
-<!--
-**hansfriese/hansfriese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/hansfriese?style=social)](https://www.twitter.com/hansfriese)
 
-Here are some ideas to get you started:
+---
+💼 Co-founder of [CyfrinAudits](https://www.cyfrin.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Founder of [Solodit](https://solodit.xyz)
+
+⚖️ Judge at [Code4rena](https://code4rena.com)
+
+🥇 #1 Warden of 2023 at [Code4rena](https://code4rena.com/@hansfriese)
+
+---
+![2023-07-25 211327](https://github.com/hansfriese/hansfriese/assets/45533148/053aff0d-d438-4ce4-a899-296597924ccf)
