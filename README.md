@@ -11,5 +11,9 @@
 
 🥇 #1 Warden of 2023 at [Code4rena](https://code4rena.com/@hansfriese)
 
+--- 
+
+🗓️ Schedule a call [here](https://calendly.com/hans-xe4/introductory-call)
+
 ---
 ![2023-07-25 211327](https://github.com/hansfriese/hansfriese/assets/45533148/053aff0d-d438-4ce4-a899-296597924ccf)
