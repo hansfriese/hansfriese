@@ -7,10 +7,6 @@
 
 💼 Founder of [Solodit](https://solodit.xyz)
 
-⚖️ Judge at [Code4rena](https://code4rena.com)
-
-🥇 #1 Warden of 2023 at [Code4rena](https://code4rena.com/@hansfriese)
-
 --- 
 
 🗓️ Schedule a call [here](https://calendly.com/hans-xe4/introductory-call)
